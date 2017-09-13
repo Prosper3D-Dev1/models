@@ -1,2 +1,2 @@
-# models
-Sample 3D models
+# 3D models
+Sample 3D STL models
